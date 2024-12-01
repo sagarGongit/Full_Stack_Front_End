@@ -1,0 +1,10 @@
+.add-product form {
+  border: 1px solid black;
+  width: 50vw;
+  height: 75vh;
+  padding: 20px;
+  margin: auto;
+}
+.add-product h1 {
+  text-align: center;
+}
